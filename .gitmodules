@@ -1,6 +1,0 @@
-[submodule "Portfolio"]
-    path = Portfolio
-    url = https://github.com/aaronleslie/Portfolio.git
-[submodule "Movie_Finder"]
-    path = Movie_Finder
-    url = https://github.com/aaronleslie/Movie_Finder.git
